@@ -1,5 +1,5 @@
 body {
-  background-color: gray;
+  background-color: white;
   margin: 10;
   padding: 0;
 }
@@ -22,7 +22,7 @@ h2,h3,h4 {
   color:black;
   font-family: 'Quicksand', sans-serif;
   font-size: 28px;
-  font-weight: 100:
+  font-weight: 100;
   text-align: center;
 }
 
