@@ -1,28 +1,29 @@
 body {
-  background-color: white;
-  margin: 0;
+  background-color: gray;
+  margin: 10;
   padding: 0;
 }
 .header {
   background-position: center center;
   background-size: cover;
-  height: 700px;
+  height: 400px;
   width: 100%;
 }
 h1 {
   color: blue;
   font-family: 'Quicksand', sans-serif;
-  font-size: 70px;
-  font-weight: 400;
+  font-size: 40px;
+  font-weight: 200;
   line-height: 60px;
+  text-align:center;
   margin: 0;
 }
-h2 {
+h2,h3,h4 {
   color:black;
   font-family: 'Quicksand', sans-serif;
   font-size: 28px;
   font-weight: 100:
-  text-allign: center;
+  text-align: center;
 }
 
 p {
@@ -32,7 +33,7 @@ p {
   font-weight:100;
   line-height: 24px;
   margin:o auto;
-  text-allign:center,
+  text-align:center,
   width: 60%;
 }
 
